@@ -377,6 +377,10 @@ hr {
   background: #eb5424;
 }
 
+.progress-bar-language {
+  background: #24ebac;
+}
+
 .tm-progress-label {
   font-size: 12px;
   font-weight: bold;
